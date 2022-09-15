@@ -1,4 +1,5 @@
 # Modelo de Clasificacion de Comentarios en Facebook
+Este modelo de clasificación fue creado para el Trabajo de Fin de Máster del Máster en Letras Digitales:Estudios Avanzados en Textualidades Electrónicas impartido en la Universidad Complutense de Madrid. 
 Los documentos empleados para poner a prueba este modelo son los siguientes:    
 publico.csv :https://drive.google.com/file/d/10FNTlz6dIAxNGqPBMFw2Uj_F8ZKtUuHu/view?usp=sharing      
 confidencial_csv.csv : https://drive.google.com/file/d/1whvvKkgeYBuCpBUdqBaTMiTaNIFksHZP/view?usp=sharing      
